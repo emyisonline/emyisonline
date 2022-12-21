@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @emyisonline
 - 👀 I’m interested in front-end and ux/ui design
-- 🌱 I’m currently learning javascript at alura
+- 🌱 I’m currently studying at alura
 
 <!---
 emyisonline/emyisonline is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
